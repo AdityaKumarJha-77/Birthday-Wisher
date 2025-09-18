@@ -28,11 +28,7 @@ birthday-wisher/
 
 ---
 
-## 🚀 Deployment on Vercel
-1. Go to [Vercel](https://vercel.com).  
-2. Click **New Project → Import → Upload**.  
-3. Upload the `birthday-wisher.zip` folder.  
-4. Deploy and share your live **Birthday Wisher Website** 🎉.  
+ 
 
 ---
 
